@@ -32,8 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![image](https://github.com/23000966/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/153983364/0a917c3e-653a-43b9-8f0a-94b1c7692e27)
-![image](https://github.com/23000966/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/153983364/f79416aa-0e91-4381-8fe8-4ebe25e8e932)
+![image](https://github.com/23000966/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/153983364/c2458a31-8eb7-49fb-ba29-8f74f75ade9a)
+![image](https://github.com/23000966/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/153983364/ccdd18c2-baa8-4c7a-b05f-f76d3f21f74d)
 
 
 ### Name: SANTHOSH KUMAR R
