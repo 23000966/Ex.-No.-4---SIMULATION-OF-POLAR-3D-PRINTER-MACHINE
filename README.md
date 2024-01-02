@@ -36,8 +36,8 @@
 ![image](https://github.com/23000966/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/153983364/ccdd18c2-baa8-4c7a-b05f-f76d3f21f74d)
 
 
-### Name: SANTHOSH KUMAR R
-### Register Number: 23000966
+### Name: DILIP SANJAY M
+### Register Number: 23014243
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
